@@ -21,7 +21,7 @@ The Sun follows an approximately 11-year activity cycle, but hemispheric dominan
 The analysis shows variations in dominance between hemispheres across different periods, suggesting complex magnetic behavior.
 
 ## Visualization
-![Hemispheric Analysis](figures/hemisphere_comparison.png)
+![Hemispheric Analysis](notebooks/hemisphere_comparison.png)
 
 ## Technologies Used
 - Python
